@@ -1,4 +1,6 @@
-              //Middle of a linked list 
+ #include<bits/stdc++.h>
+ 
+        //Middle of a linked list 
 int findLength(Node *head)
 {
     Node* temp = head ; 
